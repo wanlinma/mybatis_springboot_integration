@@ -5,7 +5,8 @@
 
 1. 找到 mybatis_springboot_integration\src\main\resources\test.sql
 
-   将 test.sql 内是数据表结构和数据。
+    test.sql 内是数据表结构和数据。
+    
 
 2. 启动项目，在浏览器输入这两个 即可得到结果
 
